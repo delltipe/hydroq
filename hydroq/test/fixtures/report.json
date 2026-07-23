@@ -1,0 +1,18 @@
+{
+  "metric": "ec",
+  "period": "weekly",
+  "points": [
+    {"label": "Sen", "value": 1.62},
+    {"label": "Sel", "value": 1.71},
+    {"label": "Rab", "value": 1.84}
+  ],
+  "summary": {
+    "average": 1.72,
+    "minimum": 1.62,
+    "maximum": 1.84,
+    "sampleCount": 3,
+    "warningCount": 1,
+    "criticalCount": 0,
+    "abnormalDurationMinutes": 8
+  }
+}

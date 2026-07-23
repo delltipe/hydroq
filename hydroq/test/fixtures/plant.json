@@ -1,0 +1,17 @@
+{
+  "id": "pakcoy",
+  "name": "Pakcoy",
+  "aliases": ["pak choi", "bok choy", "sawi sendok"],
+  "category": "Sayuran daun",
+  "difficulty": "Pemula",
+  "phMin": 5.8,
+  "phMax": 6.5,
+  "ecMin": 1.5,
+  "ecMax": 2.0,
+  "waterTempMin": 18,
+  "waterTempMax": 24,
+  "daysToHarvest": 35,
+  "nutritionTips": ["Naikkan nutrisi secara bertahap."],
+  "careTips": ["Pastikan sirkulasi air stabil."],
+  "commonProblems": ["Daun pucat saat nutrisi terlalu rendah."]
+}

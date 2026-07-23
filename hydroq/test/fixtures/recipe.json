@@ -1,0 +1,13 @@
+{
+  "id": "recipe-selada-pro",
+  "name": "Selada Pro",
+  "phMin": 5.6,
+  "phMax": 6.4,
+  "ecMin": 1.3,
+  "ecMax": 1.8,
+  "minimumVolumeLiters": 18,
+  "warningMarginPercent": 10,
+  "persistenceMinutes": 3,
+  "sourcePlantId": "lettuce",
+  "active": false
+}

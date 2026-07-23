@@ -1,0 +1,14 @@
+{
+  "tankId": "tank-main",
+  "tankName": "Tangki Utama",
+  "profileName": "Selada",
+  "deviceConfigured": true,
+  "deviceOnline": true,
+  "updatedAt": "2026-07-23T08:15:00Z",
+  "overallState": "warning",
+  "readings": {
+    "ph": {"value": 6.2, "unit": "", "state": "normal", "target": [5.5, 6.5]},
+    "ec": {"value": 1.82, "unit": "mS/cm", "estimatedTds": 1165, "state": "warning", "target": [1.2, 1.8]},
+    "volume": {"value": 42.5, "unit": "L", "percent": 71, "state": "normal", "target": [18, 60]}
+  }
+}

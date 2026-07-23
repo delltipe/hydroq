@@ -1,0 +1,13 @@
+{
+  "id": "alert-1",
+  "title": "EC mendekati batas atas",
+  "message": "Nutrisi berada di atas rentang ideal untuk Selada.",
+  "state": "warning",
+  "metric": "EC",
+  "valueText": "1.82 mS/cm",
+  "targetRange": "1.2–1.8 mS/cm",
+  "createdAt": "2026-07-23T08:15:00Z",
+  "endedAt": null,
+  "durationMinutes": 4,
+  "resolved": false
+}
